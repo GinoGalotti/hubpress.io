@@ -2,7 +2,8 @@
   "meta": {
     "username": "ginogalotti",
     "repositoryName": "improv",
-    "branch": "gh-pages"
+    "branch": "gh-pages",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -26,5 +27,31 @@
     "beforeCreate": [
       null
     ]
-  }
+  },
+  "site": {
+    "title": "Improve in Improv",
+    "description": "My personal journey throug improv comedy",
+    "logo": "",
+    "cover": "/images/gino_cover.jpg",
+    "delay": "",
+    "postsPerPage": "3",
+    "blogPath": "",
+    "googleAnalytics": "UA-63334703-1",
+    "disqus": "improve-in-improv"
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "https://github.com/GinoGalotti/",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "https://www.instagram.com/call.me.gino/",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "https://www.linkedin.com/in/ginogalotti/",
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
+  },
+  "navigation": []
 }

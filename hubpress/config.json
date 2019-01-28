@@ -5,6 +5,26 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://ginogalotti.github.io/improv",
+    "hubpress": "https://ginogalotti.github.io/improv",
+    "theme": "//ginogalotti.github.io/improv/themes/casper",
+    "images": "https://ginogalotti.github.io/improv/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ]
   }
 }

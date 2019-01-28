@@ -6,7 +6,7 @@
 
 Improv theatres like to experiment with new and colourful formats, people can only watch so many Harolds before craving crazier shows. That is why frat-party style shows sound very appealing to audiences and theatre managers! Recently we started doing it link:https://www.improvcomedy.eu/[at the theatre I'm part of] and I have spent a lot of time thinking of how would I craft my favourite version of it. In this post, we will explore together the elements that can enhance this kind of shows!
 
-=== What do I mean with a frat-party show?
+== What do I mean with a frat-party show?
 
 I am referring to shows that usually involve drinking, games and a notch of enjoying being careless. For instance, this is the excerpt we used for link:https://www.improvcomedy.eu/event/wtf-26-01-2/[our What The F*ck show]. It is a format which embraces the concept of link:https://backline.podbean.com/e/142-loud-proud-and-wrong/[loud, proud and wrong]. 
 
@@ -14,7 +14,7 @@ An example of a successful long-running show like this is link:https://www.faceb
 
 As described on link:https://www.amazon.com/gp/product/B077VYGK1Z/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=callmegino-20&amp;creative=9325&amp;linkCode=as2&amp;creativeASIN=B077VYGK1Z&amp;linkId=638688ca716c7cb51cc514e54027a8cc[Sam Wasson's Improv Nation], improvisation surprised everyone for being an artform where performers could express their ideas freely. There was no recording, writing down or censoring of the shows, which enabled improvisers to use brand names, explore real-life scenarios and share their ideas the same way that two friends would do it! The sincerity and intimacy of the performances were unmatched. We can all admit being inappropriate sometimes, and seeing people embracing that on stage really makes a frat-party show shine!
 
-=== Which are the elements from this kind of shows?
+== Which are the elements from this kind of shows?
 
 
 They can be as varied as any other format. If we didn't think that homogeneity is too restrictive to explore creativity, we wouldn't be in love with Improvisation! But, of course, the devil is in the details, so let's explain which are the elements of my take on this format.
@@ -27,7 +27,7 @@ We want to convey the feeling of a crazy and out-of-control party, so we want ev
 
 In conclusion, a question that I always ask myself when I work on a format is: What is the feeling we want to create in the audience? My answer: participating in a party which was so wrong, loud and hilarious that feels completely different to any other show they can see. I want to create such an experience that feels wrong when trying to pitch it to their friends. This show is not for everyone, but if you do it right you will create many die-hard fans!
 
-=== How can we embrace competitivity?
+== How can we embrace competitivity?
 
 Teams enhance competition! If we share a common colour, we can divide the audience and make them rally together. It also lets us play together (improv really benefits from us wanting others to succeed), while still allowing competition. Having one team captain per team as a host helps with many of the games as well, both engaging the crowd and challenging the performers!
 
@@ -37,7 +37,7 @@ Use the team captains to make the scenes more absurd, and put the performers on 
 
 Include some randomness in the equation! This is not an actual sport, and the end goal is delivering an amazing experience to the public (and performers). Don't be afraid to include some random (and unfair) elements that will shake up the show! An outside character whose job is to find what is the show lacking can really benefit this format. Are the people not engaging enough? Come on stage and change the rules of the game, or offer new drinks/punishments! Some performers are crushing the rest? Come out and make it harder for them! "Ohh, you a very talky-talky, the next time I hear you using more than 5 words I'll shower you!", "ABC seems to be very easy for you in English, let's see how you manage in Danish!".
 
-=== How can we make it more engaging for the audience?
+== How can we make it more engaging for the audience?
 
 Performing this format without audience participation feels as bad as being the only drunk person in a party. But don't worry, let's explore together the ways we can make this more engaging!
 
@@ -49,7 +49,7 @@ As a way to promote buying drinks (the theatre manager will love this format!), 
 
 There is nothing more engaging than delivering a funny and crazy show, creating an experience in line with our goal! Make the spectators feel supported regardless of their suggestion, and celebrate when they're bold enough to suggest something inappropriate (and in line with the show!). Train your performers to create situations where people are suggested to fill the gap with something naughty!
 
-=== Games that work great and how to modify them
+== Games that work great and how to modify them
 
 Let's go through the different kind of short form games you can use, and some modifications to make them more competitive! Having rules that are easy to understand (and to fail) gives us more ways to give punishments! Just keep in mind, this is not about ridiculizing a performer but putting some (the ones who enjoy and can handle it) on the spot! We don't win the game beating our opponents, but delivering the funniest experience.
 
@@ -61,7 +61,7 @@ Guessing games (such as link:http://improvencyclopedia.org/games//The_Party.html
 
 Scene games (like link:http://improvencyclopedia.org/games/Pillars.html[Pillars] or link:https://learnimprov.com/352/[Should have said]) can be performed by players of both teams, having a score based on the performance, or by the same team while are being challenged by the others. If both teams participate, the hosts should focus on getting the performers out of their head!
 
-=== Have you been to a show with this format?
+== Have you been to a show with this format?
 
 Ok! No more! As you can observe, I really love theorizing about my hobbies to the point where I have squeezed all the fun out of it.
 

@@ -1,6 +1,6 @@
 = So you are planning a frat-party improv show
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
-:hp-image: https://ginogalotti.github.io/improv/images/party-cover.jpg
+:hp-image: https://ginogalotti.github.io/improv/images/party-cover-lowres.jpg
 :published_at: 2019-01-29
 :hp-tags: Improv, Improv Comedy Copenhagen, ICC, Backline, Short Form, Mantown
 

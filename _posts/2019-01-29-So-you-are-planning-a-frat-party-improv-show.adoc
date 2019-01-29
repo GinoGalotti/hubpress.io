@@ -2,7 +2,7 @@
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
 :hp-image: https://ginogalotti.github.io/improv/images/party-cover-lowres.jpg
 :published_at: 2019-01-29
-:hp-tags: Improv, Improv Comedy Copenhagen, ICC, Backline, Short Form, Mantown
+:hp-tags: Improv, Improv Comedy Copenhagen, ICC, Backline, Short Form, Mantown, Format
 
 Improv theatres like to experiment with new and colourful formats. People can only watch so many Harolds before craving crazier shows! That is why frat-party style shows sound so appealing to audiences and theatre managers. Recently we started doing it link:https://www.improvcomedy.eu/[at the theatre I'm part of], and I have spent a lot of time thinking of how to craft my ultimate version! In this post, we will explore together the elements that can enhance this format.
 

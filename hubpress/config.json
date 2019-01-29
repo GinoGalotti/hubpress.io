@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "saga"
+    "name": "casper"
   },
   "urls": {
     "site": "https://ginogalotti.github.io/improv",
     "hubpress": "https://ginogalotti.github.io/improv",
-    "theme": "//ginogalotti.github.io/improv/themes/uno",
+    "theme": "//ginogalotti.github.io/improv/themes/saga",
     "images": "https://ginogalotti.github.io/improv/images"
   },
   "initialisationConfigComponent": {

@@ -1,10 +1,57 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
-    "branch": "master"
+    "username": "ginogalotti",
+    "repositoryName": "improv",
+    "branch": "gh-pages",
+    "cname": ""
   },
   "theme": {
     "name": "Casper"
-  }
+  },
+  "urls": {
+    "site": "https://ginogalotti.github.io/improv",
+    "hubpress": "https://ginogalotti.github.io/improv",
+    "theme": "//ginogalotti.github.io/improv/themes/casper",
+    "images": "https://ginogalotti.github.io/improv/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ]
+  },
+  "site": {
+    "title": "Improve in Improv",
+    "description": "My personal journey throug improv comedy",
+    "logo": "",
+    "cover": "https://ginogalotti.github.io/improv/images/gino_cover_lowres.jpg",
+    "delay": "",
+    "postsPerPage": "5",
+    "blogPath": "",
+    "googleAnalytics": "UA-63334703-1",
+    "disqus": "improve-in-improv"
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "https://github.com/GinoGalotti/",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "https://www.instagram.com/call.me.gino/",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "https://www.linkedin.com/in/ginogalotti/",
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
+  },
+  "navigation": []
 }
